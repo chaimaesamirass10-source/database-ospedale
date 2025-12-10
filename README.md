@@ -22,6 +22,10 @@ Il database include le seguenti tabelle:
 - ** Visite ** - Visite mediche dei pazienti
 ---
 # Struttura del repository
+
+La struttura del progetto è organizzata in cartelle per rendere il lavoro chiaro e professionale:
+
+```
 ospedale-database/
 ├─ sql/
 │  ├─ create_tables.sql       # Definizione tabelle
@@ -30,7 +34,8 @@ ospedale-database/
 ├─ diagram/
 │  └─ er_diagram.png          # Diagramma ER
 ├─ README.md                  # Documentazione del progetto
-└─ .gitignore
+└─ .gitignore                 # File per escludere file inutili
+```
 
 
 

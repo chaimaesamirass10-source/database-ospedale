@@ -26,7 +26,7 @@ Il database include le seguenti tabelle:
 La struttura del progetto è organizzata in cartelle per rendere il lavoro chiaro e professionale:
 
 ```
-ospedale-database/
+database-ospedale/
 ├─ sql/
 │  ├─ create_tables.sql       # Definizione tabelle
 │  ├─ insert_data.sql         # Dati di esempio

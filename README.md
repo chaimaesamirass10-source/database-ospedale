@@ -1,6 +1,6 @@
 #  Progetto database-ospedale
 ** Progettazione e implementazione di un database relazionale completo (MySQL)**
-Realizzato da ** Chaiame Samirass** come progetto dimostrativo per competenze da Junior Data Engineer/ Data Analyst.
+Realizzato da ** Chaimae Samirass** come progetto dimostrativo per competenze da Junior Data Engineer/ Data Analyst.
 ---
 # Obiettivi del progetto
 - Modellazione concenttuale con diagramma ER

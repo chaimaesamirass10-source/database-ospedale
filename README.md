@@ -30,7 +30,7 @@ database-ospedale/
 ├─ sql/
 │  ├─ create_tables.sql       # Definizione tabelle
 │  ├─ insert_data.sql         # Dati di esempio
-│  └─ query_avanzate.sql      # Query SQL avanzate
+│  └─ query_semplici.sql      # Query SQL avanzate
 ├─ diagram/
 │  └─ er_diagram.png          # Diagramma ER
 ├─ README.md                  # Documentazione del progetto
